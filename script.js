@@ -43,5 +43,5 @@ function filter(el){
 
 }
 
-function sort()
-function paginate();
+function sort(){}
+function paginate(){}
