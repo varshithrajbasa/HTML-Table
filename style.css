@@ -1,0 +1,17 @@
+.table-responsive {
+  height: 450px;
+  margin-bottom: 15px;
+}
+.table {
+  overflow-y: scroll;
+}
+
+.table-row {
+  height: 50px;
+}
+
+.heading {
+  position: sticky;
+  top: 0;
+  background-color: aliceblue;
+}
